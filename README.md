@@ -1,4 +1,4 @@
-# Quizzer
+# Quizbe
 
 ![Project Image](app/src/main/res/ic_launcher_foreground.png)
 
