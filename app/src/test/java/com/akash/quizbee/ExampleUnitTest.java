@@ -1,4 +1,4 @@
-package com.akash.quizbee;
+package com.example.test_quiz;
 
 import org.junit.Test;
 
